@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Discord bot for finding the location of a given string in the Library of Babel",
   "main": "main.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
