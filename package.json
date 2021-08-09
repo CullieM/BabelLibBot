@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CullieM/BabelLibBot/issues"
   },
-  "homepage": "https://github.com/CullieM/BabelLibBot#readme"
+  "homepage": "https://github.com/CullieM/BabelLibBot#readme",
+  "dependencies": {
+    "discord.js": "^13.0.1"
+  }
 }
