@@ -18,5 +18,6 @@
   "homepage": "https://github.com/CullieM/BabelLibBot#readme",
   "dependencies": {
     "discord.js": "^13.0.1"
-  }
+  },
+  "devDependencies": {}
 }
