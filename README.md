@@ -5,10 +5,10 @@ Uses the algorithm created by: [This Legend](https://github.com/cakenggt/Library
 
 Possible commands are (use !help):
 
-!search *text*
-!searchTitle *text*
-!getPage *hex-addr*
-!getPageTitle *hex-addr*
+!search *text*<br />
+!searchTitle *text*<br />
+!getPage *hex-addr*<br />
+!getPageTitle *hex-addr*<br />
 
 hex-addr being the type returned by search and searchTitle. 
 
